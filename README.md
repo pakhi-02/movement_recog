@@ -1,1 +1,3 @@
-# movement_recog
+# An algorithm that examines consecutive video frames and outputs the movement of targets between the frames performs video tracking. Numerous algorithms exist, and each has advantages and disadvantages. Selecting the right algorithm requires taking the intended usage into account. A visual tracking system consists of two main parts: filtering and data association, together with target representation and localization.
+
+# The process of utilizing a camera to locate a moving object (or numerous objects) over time is known as video tracking. Human-computer interaction, security and surveillance, video communication and compression, augmented reality, traffic control, medical imaging, and video editing are just a few of its many applications.
